@@ -1,6 +1,17 @@
-## Acerca del proyecto
+## Intalación
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+- [Se Uso Laravel  5.7]
+- [Base de datos mysql]
+- Clone / descargue el repositorio / todos los archivos en su computadora.
+-Mueva los archivos / repositorios descargados a htdocs (si usa Xampp) o a www (si usa Wampp) o al directorio raíz de su servidor.
+- Cree una base de datos vacía con el nombre numeros
+
+-Instale las dependencias
+--Composer install
+--npm install
+--php artisan key:generate
+--php artisan migrate
+-Renombre .env.example a .env .
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
