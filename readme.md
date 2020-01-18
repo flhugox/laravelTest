@@ -12,6 +12,7 @@
 - php artisan key:generate
 - php artisan migrate
 - Renombre .env.example a .env .
+- Use El archivoExcel como Ejemplo.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
