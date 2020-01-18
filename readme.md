@@ -7,10 +7,10 @@
 - Cree una base de datos vacía con el nombre numeros
 
 -Instale las dependencias
---Composer install
---npm install
---php artisan key:generate
---php artisan migrate
+-Composer install
+-npm install
+-php artisan key:generate
+-php artisan migrate
 -Renombre .env.example a .env .
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
